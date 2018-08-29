@@ -1,55 +1,59 @@
+
 <!DOCTYPE html>
-<html>
-<title></title>
-<body>
-<h1>Meet Our Employees</h1>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Meet Our Employees</title>
+  </head>
+  <body>
+  <h1>Meet Our Employees</h1>
 
-<h3>All services are offered for Group home and independent living programs as needed.
-   Services include but are not limited to: </h3>
-
-
-   24 hour staff on duty        Activities of daily living<br>
-
-
+  <h3>All services are offered for Group home and independent living programs as needed.
+     Services include but are not limited to: </h3>
 
 
-   transportation                Academic support<br>
+     24 hour staff on duty        Activities of daily living<br>
 
 
 
 
-   Academic counseling           Study skills training<br>
+     transportation                Academic support<br>
 
 
 
 
-   Literacy training             Social skills training<br>
+     Academic counseling           Study skills training<br>
 
 
 
 
-   Positive interactions with peers       Religious affiliations<br>
+     Literacy training             Social skills training<br>
 
 
 
 
-   College counseling                     GED counseling<br>
+     Positive interactions with peers       Religious affiliations<br>
 
 
 
 
-   Job seeking skills                     Budgeting skills<br>
+     College counseling                     GED counseling<br>
 
 
 
 
-   Mental Health services                 Community outings and events<br>
+     Job seeking skills                     Budgeting skills<br>
 
 
 
-  Community outreach participation
+
+     Mental Health services                 Community outings and events<br>
 
 
 
-</body>
+    Community outreach participation
+
+
+
+  </body>
 </html>

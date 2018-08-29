@@ -1,14 +1,18 @@
+
 <!DOCTYPE html>
-<html>
-<title>Apply Now</title>
-<body>
-<h1>APPLICATION FOR OCCUPANCY </h1>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Apply Now</title>
+  </head>
+  <body>
+  <h1>APPLICATION FOR OCCUPANCY </h1>
 
 
-/*create an application form here */
+  /*create an application form here */
 
 
 
 
-</body>
+  </body>
 </html>
