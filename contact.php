@@ -1,9 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
   <head>
     <meta charset="utf-8">
-    <title>Donations</title>
+    <title>Contact Us !</title>
     <script src = "https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src = "tabs.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -21,7 +21,14 @@
       <a href="blog.php"></i>Blog</a>
     </nav>
   <body>
-    /* create a Paypal page */
+  <h1>CONSIDER BECOMING A SEEDS 4 LIFE TEAM  MEMBER</h1>
+  <h2>SEEDS 4 LIFE</h2>
+
+  <h2>26 WEST MELFORD AVENUE</h2>
+  <h2>DAYTON OHIO, 45405</h2>
+
+  <h2>DONNA CLARK, CEO/FOUNDER</h2>
+
+  /*create a contact form h*/
   </body>
-</div>
 </html>

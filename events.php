@@ -1,9 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
   <head>
     <meta charset="utf-8">
-    <title>Donations</title>
+    <title>Upcoming Events</title><script src = "https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src = "https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src = "tabs.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -21,7 +21,16 @@
       <a href="blog.php"></i>Blog</a>
     </nav>
   <body>
-    /* create a Paypal page */
+  <h1>Upcoming Events 2018</h1>
+
+
+  /* add upcoming events here */
+
+
+
+
+
+
+
   </body>
-</div>
 </html>

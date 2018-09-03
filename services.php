@@ -3,13 +3,28 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Meet Our Employees</title>
+    <title>Continuum of Services</title>
+    <script src = "https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src = "tabs.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
+  <div class="wrapper">
+    <nav class="tabs">
+      <div class="selector"></div>
+      <a href="index.php"</i>Home</a>
+      <a href="services.php">Services</a>
+      <a href="application.php"></i>Apply</a>
+      <a href="events.php">Upcoming Events 2018</a>
+      <a href="contact.php">Contact Us </a>
+      <a href="donate.php">Donate</a>
+      <a href="gallery.php"></i>Gallery</a>
+      <a href="blog.php"></i>Blog</a>
+    </nav>
   <body>
   <h1>Meet Our Employees</h1>
 
   <h3>All services are offered for Group home and independent living programs as needed.
-     Services include but are not limited to: </h3>
+     Services include but are not limited to: <br><br>
 
 
      24 hour staff on duty        Activities of daily living<br>
@@ -52,7 +67,7 @@
 
 
     Community outreach participation
-
+</h3>
 
 
   </body>
