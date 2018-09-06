@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body
-  {
+{
+
   background-image: url("sunflower.jpg");
-  }
-  {
   font-family: 'Roboto', sans-serif;
-  }
+}
 h1,h3,p
 {
-  color: white;
+  color: black;
   text-align: center;
+  font-style: italic;
 }
 h2
 {
@@ -75,4 +75,23 @@ h6{
   background: -webkit-linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
   background: linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#05abe0', endColorstr='#8200f4',GradientType=1 );
+}
+.boxed {
+  margin: 30px;
+   background-color: #ffffff;
+   border: 1px solid black;
+   opacity: 0.6;
+   filter: alpha(opacity=60); /* For IE8 and earlier */
+  border-radius: 25px;
+      border: 2px solid #73AD21;
+      padding: 20px;
+      width: 850px;
+      height: 400px;
+}
+.greenText
+{
+color: green;
+text-shadow: 4px 3px #ffffff;
+border-style:dashed;
+border-color:black;
 }
