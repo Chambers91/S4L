@@ -57,9 +57,13 @@
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" required>
     <hr><br>
-    <textarea rows="40" cols="100"></textarea><br>
+    <!-- Attach document button -->
 
-    <a href="#"><button type="submit" class="registerbtn">Submit</button></a>
+    Attach or Paste resume in the textbox below:
+    <form action="/apply.php">
+  <input type="file" name="pic" accept="image/*">
+  <textarea rows="40" cols="100"></textarea><br>
+  <a href="#"><button type="submit" class="registerbtn">Submit</button></a>
     </div>
 </form>
 
