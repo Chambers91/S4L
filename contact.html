@@ -6,6 +6,29 @@
     <title>Contact Us !</title>
     <script src = "tabs.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+    p{
+      text-align: left;
+    }
+    .box{
+
+      margin-left: -300px;
+      margin-top: -200px;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+       background-color: #ffffff;
+       border: 1px solid black;
+       opacity: 0.6;
+       filter: alpha(opacity=60);
+      border-radius: 25px;
+          border: 6px solid #73AD21;
+          padding: 20px;
+          width: 600px;
+          height: 600px;
+
+    }
+    </style>
   </head>
   <!-- Title -->
   <h1 class = "greenText"><font size="50">Seeds 4 Life</font></h1>
@@ -26,28 +49,29 @@
   <body>
 
     <!-- box feature around my text -->
-    <div class="boxed">
+    <div class ="box">
   <h1>CONSIDER BECOMING A SEEDS 4 LIFE TEAM  MEMBER</h1>
   <h2>SEEDS 4 LIFE</h2>
-
-  <h2>26 WEST MELFORD AVENUE</h2>
-  <h2>DAYTON OHIO, 45405</h2>
-
   <h2>DONNA CLARK, CEO/FOUNDER</h2>
 
           <!-- Contact Form starts Here -->
-          <center><p> Contact Form </p></center>
+
+          <center><h1> Contact Form </h1></center>
           <form class="contact-form" action="contact.php" method="post">
 
-
-          <center> <input type="text" name="name" placeholder="Full name"></center><br>
-          <center><input type="text" name="mail" placeholder="your email"></center><br>
-          <center><input type="text" name="subject" placeholder="Subject"></center><br>
-          <center><textarea name="message" placeholder="Message"></textarea></center><br>
+          <p>Full Name</p>
+          <input type="text" name="name" placeholder="Full name">
+          <p>Email</p>
+          <input type="text" name="mail" placeholder="your email">
+          <p>Subject</p>
+          <input type="text" name="subject" placeholder="Subject">
+          <p>Message</p>
+          <textarea name="message" placeholder="Message"></textarea>
           <center><button type="submit" name="submit">SEND!</button></center>
           <div class ="success"><?= $success; ?></div>
 
           </form>
+        </div>
           <br>
 
   <?php
